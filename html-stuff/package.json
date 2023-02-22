@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@react-native-ml-kit/text-recognition": "^1.2.1"
+  }
+}
